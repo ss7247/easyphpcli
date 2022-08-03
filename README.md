@@ -45,3 +45,6 @@ php index.php  del user_id 10
 更多使用方法，可以自己悟
 
 这个项目代码简单，功能简单，只是提供了一种使用命令行脚本运行的思路，可以使用你熟悉的PHP框架写脚本，写代码与维护至少提升几个量级吧
+
+![image](https://user-images.githubusercontent.com/9480946/182517966-928113ae-456f-4cab-a9f0-d9920d0d9f87.png)
+
